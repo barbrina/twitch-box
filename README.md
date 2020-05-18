@@ -6,7 +6,7 @@
 
 `git clone https://github.com/baka-noob/Twitch.box`
 
-<p align="justify">Se preferir pode baixar clicando <a href="https://github.com/baka-noob/Twitch.box/archive/master.zip">aqui</a>.</p>
+<p align="justify">ou clique <a href="https://github.com/baka-noob/Twitch.box/archive/master.zip">aqui</a>.</p>
 
 ### Instalando python 3.8.x
 

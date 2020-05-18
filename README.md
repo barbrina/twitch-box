@@ -10,13 +10,13 @@
 
 ### Instalando python 3.8.x
 
-### Linux
+• Linux
 
 ```console
 sudo apt-get install python3.8
 ```
 
-### MacOS
+• MacOS
 
 ```console
 brew install python3.8

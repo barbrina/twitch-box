@@ -13,7 +13,7 @@
 • Linux
 
 ```console
-sudo apt-get install python3.8
+sudo apt-get install python3.8 && sudo apt-get install python-pip
 ```
 
 • MacOS
@@ -23,6 +23,7 @@ brew install python3.8
 ```
 
 Windows - <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe">Downlaod x86</a>, <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64.exe">Download x86-64</a>
+
 
 ### Instalando dependencias
 

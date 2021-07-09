@@ -63,7 +63,7 @@ ou
 
 ## Autora
 
-**Bárbara Braga (baka_noob)** - Estudante autodidata - [Twitter](https://twitter.com/quenhebarbara)
+**Bárbara Braga (baka_noob)** - Estudante de Engenharia da Computação
 
 
 ### Agradecimento

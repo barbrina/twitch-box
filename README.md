@@ -1,5 +1,7 @@
 # Twitch.box
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 ## Instalação
 
 ### Fazendo download do script
